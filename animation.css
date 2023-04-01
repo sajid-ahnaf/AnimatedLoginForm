@@ -15,8 +15,8 @@ body {
 .box {
   position: relative;
   background: #1c1c1c;
-  height: 550px;
-  width: 500px;
+  height: 90%;
+  width: 90%;
   border-radius: 8px;
   overflow: hidden;
 }
@@ -71,7 +71,7 @@ body {
 
 .form h2 {
   text-align: center;
-  margin-top: 30px;
+  margin-top: 7%;
   letter-spacing: 0.09em;
   font-weight: 100px;
   color: #45f3ff;
@@ -79,7 +79,7 @@ body {
 
 .inputbox {
   position: relative;
-  width: 850px;
+  width: 130%;
   margin-top: 40px
 }
 
@@ -115,7 +115,7 @@ body {
 .inputbox i {
   position: absolute;
   height: 2px;
-  width: 50%;
+  width: 75%;
   background: #45f3ff;
   pointer-events: none;
   border-radius: 8px;
