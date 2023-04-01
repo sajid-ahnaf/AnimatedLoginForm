@@ -6,7 +6,7 @@
 
 body {
   display: flex;
-  height: 100vh;
+  height: 120vh;
   background: #23242a;
   justify-content: center;
   align-items: center;
@@ -15,8 +15,8 @@ body {
 .box {
   position: relative;
   background: #1c1c1c;
-  height: 600px;
-  width: 600px;
+  height: 550px;
+  width: 500px;
   border-radius: 8px;
   overflow: hidden;
 }
@@ -65,21 +65,22 @@ body {
   inset: 2px;
   z-index: 10;
   border-radius: 8px;
-  padding: 20px 30px;
+  padding: 0px 40px;
   background: #28292d
 }
 
 .form h2 {
   text-align: center;
+  margin-top: 20px;
   letter-spacing: 0.09em;
-  font-weight: 500px;
+  font-weight: 100px;
   color: #45f3ff;
 }
 
 .inputbox {
   position: relative;
-  width: 700px;
-  margin-top: 100px
+  width: 850px;
+  margin-top: 40px
 }
 
 .inputbox input {
