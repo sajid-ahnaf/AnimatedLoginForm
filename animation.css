@@ -15,7 +15,7 @@ body {
 .box {
   position: relative;
   background: #1c1c1c;
-  height: 800px;
+  height: 500px;
   width: 600px;
   border-radius: 8px;
   overflow: hidden;
