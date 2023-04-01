@@ -15,7 +15,7 @@ body {
 .box {
   position: relative;
   background: #1c1c1c;
-  height: 90%;
+  height: 60%;
   width: 90%;
   border-radius: 8px;
   overflow: hidden;
@@ -38,9 +38,9 @@ body {
   content: "";
   position: absolute;
   background: linear-gradient(0deg, transparent, #45f3ff, #45f3ff);
-  height: 600px;
-  width: 600px;
-  border-radius: 8px;
+  height: 100%;
+  width: 100%;
+  border-radius: 8%;
   top: -50%;
   left: -50%;
   animation: animate 6s linear infinite;
@@ -71,7 +71,7 @@ body {
 
 .form h2 {
   text-align: center;
-  margin-top: 7%;
+  margin-top: 10%;
   letter-spacing: 0.09em;
   font-weight: 100px;
   color: #45f3ff;
